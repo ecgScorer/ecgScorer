@@ -87,5 +87,8 @@ Please note the following points:
 
 * We publish the software as it is and do not guarantee proper performance. Nevertheless, we highly acknowledge feedback. Use the issues functionality in github.
 
+## Documentation
+the documentation of our software is available [here](https://htmlpreview.github.io/?https://github.com/ecgScorer/ecgScorer/blob/5d9370deeb922e3a9deb65d12016436a16721648/ecg_scorer_toolbox/Documentation.html) or in the main folder.
+
 ## Reference
 [1] F. Kuetche, N. Alexendre, N. E. Pascal, and S. Thierry, ‘Simple, efficient, and generalized ECG signal quality assessment method for telemedicine applications’, Inform. Med. Unlocked, vol. 42, p. 101375, 2023, doi: [10.1016/j.imu.2023.101375](doi.org/10.1016/j.imu.2023.101375)
