@@ -1,4 +1,4 @@
-# ecgScorer: EcgScorer : An open source MATLAB Toolbox for ECG Signal Quality Assessment
+# ecgScorer: An open source MATLAB Toolbox for ECG Signal Quality Assessment
 
 ecgScorer is a MATLAB toolbox that provides tools for assessing the quality of electrocardiogram (ECG) signals and extracting signal quality indices (SQIs). It is designed to be modular, flexible, and adaptable to various research workflows. It can operate through a standalone graphical interface or using provided functions.
 
