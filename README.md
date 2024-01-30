@@ -57,7 +57,7 @@ use the function `scorer12.m`
 
 #### SQIs Extraction
 The following functions are used :
-- `statisticSQI.m`   for statistics-based SQIs extraction.
+- `statSQI.m`   for statistics-based SQIs extraction.
 - `frequencySQI.m`   for frequency domain based SQIs extraction.
 - `nonLinearSQI.m`   for non-linear tools based SQIs extraction.
 - `qrsDetectorSQI.m` for QRS detectors based SQIs extraction.
